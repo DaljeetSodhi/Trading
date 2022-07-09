@@ -23,7 +23,7 @@ HistPatDate='2020-08-04'; HistFailedDiv=True
 History = ['NoReadRaw', 'ReadProc','WriteProc', 'NoUpdate','NoCreateAll'] 
 RootDir = '../'
 RptDir = RootDir+'reports/'; DataDir = RootDir+'config/'
-HistDir = RootDir+'history/'
+HistDir = RootDir+'reports/'
 LogFileEnabled=True; LogFile = RptDir+'Logfile.txt'
 
 FnOList = DataDir+'FnOList.csv'
